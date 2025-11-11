@@ -1,2 +1,2 @@
 # internship-reports
-Collection of internship deliverables : Metasploit documentation,reconnaissance report,email security assessment, and Testfire VAPT.
+This repository contains cybersecurity internship deliverables — including Metasploit documentation, Reconnaissance analysis, Email Security Assessment, and a VAPT report on TestFire Bank.
